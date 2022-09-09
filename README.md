@@ -1,1 +1,1 @@
-# coding-problems
+# Coding challenges
